@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "SAD SONG",
+  "base_artist": "P1Harmony",
+  "createdAt": "2026-03-06T03:46:11.227297Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "Noel Gallagher",
+      "has_synced": true,
+      "path": "select/01_Sad_Song_Noel_Gallagher.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "Oasis",
+      "has_synced": false,
+      "path": "select/02_Sad_Song_Oasis.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/03_Sad_Song_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Sad Song - Live At Manchester Academy",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/04_Sad_Song_-_Live_At_Manchester_Academy_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Sad Song (Live at Manchester Academy)",
+      "artist": "Oasis",
+      "has_synced": true,
+      "path": "select/05_Sad_Song_(Live_at_Manchester_Academy)_Oasis.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Blame It on a Sad Song",
+      "artist": "Lynyrd Skynyrd",
+      "has_synced": true,
+      "path": "select/06_Blame_It_on_a_Sad_Song_Lynyrd_Skynyrd.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Some Sad Song",
+      "artist": "Travis",
+      "has_synced": true,
+      "path": "select/07_Some_Sad_Song_Travis.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "September",
+      "has_synced": true,
+      "path": "select/08_Sad_Song_September.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/09_Sad_Song_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Sad Song - Live Album Version",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/10_Sad_Song_-_Live_Album_Version_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Sad Song (Live Album Version)",
+      "artist": "Hooverphonic",
+      "has_synced": false,
+      "path": "select/11_Sad_Song_(Live_Album_Version)_Hooverphonic.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "Au Revoir Simone",
+      "has_synced": true,
+      "path": "select/12_Sad_Song_Au_Revoir_Simone.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Sad Song (Pacific! Remix)",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/13_Sad_Song_(Pacific!_Remix)_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Sad Song (Alexis Taylor Remix)",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/14_Sad_Song_(Alexis_Taylor_Remix)_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Sad Song",
+      "artist": "Room Eleven",
+      "has_synced": true,
+      "path": "select/15_Sad_Song_Room_Eleven.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Sad Song (live version)",
+      "artist": "Room Eleven",
+      "has_synced": false,
+      "path": "select/16_Sad_Song_(live_version)_Room_Eleven.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "SAD SONG",
+      "artist": "P1Harmony",
+      "has_synced": false,
+      "path": "select/pl_01_SAD_SONG_P1Harmony.txt"
+    }
+  ]
+}
